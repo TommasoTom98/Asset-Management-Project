@@ -16,10 +16,11 @@ I took care of **Markowitz Theory** section, specifically points **2** - **3** -
        portfolio (or risky asset portfolio).
 
 **4.** Plot the efficient portfolio frontier (in the standard deviation-mean space) with the same risky and risk-free assets but imposing two different constraints:
-      * the sum of portfolios weights of the first and second stock in your dataset is equal to 50%.
-      * the portfolio weights are above 10% for each stocks.
-      Comment on the differences on the frontier portfolio with 0.5% monthly expected return with and without the two constraints (you should consider three different 
-      frontiers: no constraint, constraint 1 and constraint 2).
+*  the sum of portfolios weights of the first and second stock in your dataset is equal to 50%.
+*  the portfolio weights are above 10% for each stocks.
+
+Comment on the differences on the frontier portfolio with 0.5% monthly expected return with and without the two constraints (you should consider three different 
+rontiers: no constraint, constraint 1 and constraint 2).
 
 **5.** Estimate CAPM alpha and beta for your stocks, use the returns of the S&P 500 (you should obtain returns from S&P 500 prices) as proxy for the market returns. Comment 
        on the results, which of the stocks has generated alpha in the previous years? Assume Rf=0.02.
